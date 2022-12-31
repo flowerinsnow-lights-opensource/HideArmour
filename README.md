@@ -7,7 +7,7 @@
 当前分支是`1.8.9 forge`版本
 
 # 命令
-`/hidearmour`或`/hidearrmor`
+`/hidearmour`或`/hidearmor`
 ## 子命令
 * `true` - 启用隐藏护甲
 * `false` - 禁用隐藏护甲
